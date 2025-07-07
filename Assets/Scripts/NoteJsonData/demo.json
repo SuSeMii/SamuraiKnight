@@ -1,0 +1,176 @@
+{
+    "stage": 1,
+    "title": "DEMO",
+    "soundpath": "Assets/Sounds/demo.mp3",
+    "musicPlayLatencyTime",
+    "noteInfo": [
+        {
+            "line": 1,
+            "type": 1,
+            "attacktime": 2000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 2,
+            "attacktime": 3000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 3,
+            "attacktime": 4000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 1,
+            "attacktime": 5000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 2,
+            "attacktime": 6000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 3,
+            "type": 3,
+            "attacktime": 7000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 1,
+            "attacktime": 8000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 3,
+            "type": 2,
+            "attacktime": 9000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 3,
+            "type": 3,
+            "attacktime": 10000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 1,
+            "attacktime": 11000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 2,
+            "attacktime": 12000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 3,
+            "attacktime": 13000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 1,
+            "attacktime": 14000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 2,
+            "attacktime": 15000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 3,
+            "type": 3,
+            "attacktime": 16000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 31,
+            "type": 1,
+            "attacktime": 17000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 2,
+            "attacktime": 18000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 3,
+            "type": 3,
+            "attacktime": 19000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 1,
+            "attacktime": 20000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 2,
+            "attacktime": 21000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 3,
+            "attacktime": 22000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 2,
+            "type": 1,
+            "attacktime": 23000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 3,
+            "type": 2,
+            "attacktime": 24000,
+            "spawntime": null,
+            "addtime": null
+        },
+        {
+            "line": 1,
+            "type": 3,
+            "attacktime": 25000,
+            "spawntime": null,
+            "addtime": null
+        }
+    ]
+}

@@ -1,0 +1,771 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b45fd36a125737740ba0280800d04921, type: 3}
+  m_Name: StageDataSO
+  m_EditorClassIdentifier: 
+  stages:
+  - title: Tutorial
+    music: {fileID: 8300000, guid: 9398067d0a2c8d741833c4c5537ecc38, type: 3}
+    defaultSpawnTime: 2
+    musicPlayLatencyTime: 0
+    noteArriveTime: 2.368421
+    noteInfos:
+    - line: 1
+      type: 0
+      hitTime: 7.836842
+      addTime: 0
+    - line: 1
+      type: 1
+      hitTime: 9.2
+      addTime: 0
+    - line: 1
+      type: 2
+      hitTime: 13.26316
+      addTime: 0
+    - line: 1
+      type: 0
+      hitTime: 15
+      addTime: 0
+    - line: 0
+      type: 0
+      hitTime: 16.1
+      addTime: 0
+    - line: 2
+      type: 1
+      hitTime: 17.7
+      addTime: 0
+    - line: 0
+      type: 0
+      hitTime: 21.43684
+      addTime: 0
+    - line: 1
+      type: 1
+      hitTime: 23.10526
+      addTime: 0
+    - line: 2
+      type: 0
+      hitTime: 26
+      addTime: 0
+    - line: 0
+      type: 0
+      hitTime: 27.3
+      addTime: 0
+    - line: 2
+      type: 2
+      hitTime: 28.3
+      addTime: 0
+    - line: 1
+      type: 2
+      hitTime: 29.9
+      addTime: 0
+    - line: 0
+      type: 0
+      hitTime: 31
+      addTime: 0
+    - line: 0
+      type: 0
+      hitTime: 32.9
+      addTime: 0
+  - title: Stage1
+    music: {fileID: 8300000, guid: 3e352c1d556eecf41a60d88b06c05453, type: 3}
+    defaultSpawnTime: 2
+    musicPlayLatencyTime: 0
+    noteArriveTime: 2.4
+    noteInfos:
+    - line: 2
+      type: 3
+      hitTime: 7.4
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 9.8
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 13.5
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 15.8
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 16.95
+      addTime: 0
+    - line: 0
+      type: 5
+      hitTime: 18.2
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 19.8
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 23.4
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 24.8
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 26.6
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 27.8
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 29.6
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 31.4
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 35.2
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 35.7
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 37
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 38.4
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 39.8
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 42.8
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 44.2
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 45.1
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 46.4
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 48.2
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 50
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 50.6
+      addTime: 0
+  - title: Stage2
+    music: {fileID: 8300000, guid: e363adeb21c116d4ab79be6cbc068726, type: 3}
+    defaultSpawnTime: 2
+    musicPlayLatencyTime: 0
+    noteArriveTime: 1.846
+    noteInfos:
+    - line: 2
+      type: 3
+      hitTime: 4.25
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 6.88
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 8.22
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 9.2
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 10.1
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 12.3
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 13.5
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 14.25
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 15.72
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 16.8
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 17.88
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 20.7
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 21.69
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 23.99
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 26.28
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 27.7
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 28.8
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 29.5
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 32
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 32.8
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 34.5
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 35.03
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 37.4
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 38.7
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 40.19
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 40.86
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 43.2
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 44.28
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 46
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 47.51
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 49.78
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 52.09
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 53
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 54.49
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 55
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 55.8
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 57.96
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 59
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 59.6
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 60.55
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 62
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 62.86
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 63.8
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 64.44
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 66
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 67.46
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 70.13
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 71
+      addTime: 0
+    - line: 0
+      type: 5
+      hitTime: 72.65
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 74.23
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 76
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 76.7
+      addTime: 0
+  - title: Stage3
+    music: {fileID: 8300000, guid: b300fbf44485d8344aeb6302d7b4a946, type: 3}
+    defaultSpawnTime: 2
+    musicPlayLatencyTime: 0
+    noteArriveTime: 2
+    noteInfos:
+    - line: 0
+      type: 4
+      hitTime: 3
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 4
+      addTime: 0
+    - line: 0
+      type: 5
+      hitTime: 5
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 6
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 7
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 8
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 9
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 10
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 11
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 12
+      addTime: 0
+  - title: Stage4 (short)
+    music: {fileID: 8300000, guid: 3d2a421e4ad82c94891614268ed36158, type: 3}
+    defaultSpawnTime: 2
+    musicPlayLatencyTime: 0
+    noteArriveTime: 2
+    noteInfos:
+    - line: 0
+      type: 3
+      hitTime: 5.65
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 5.7
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 5.73
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 5.83
+      addTime: 0
+  - title: Stage5
+    music: {fileID: 8300000, guid: b37f8dd494d95a843b82e4caf65b2557, type: 3}
+    defaultSpawnTime: 2
+    musicPlayLatencyTime: 0
+    noteArriveTime: 2
+    noteInfos:
+    - line: 0
+      type: 3
+      hitTime: 10.96
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 11.73
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 12.42
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 13.77
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 14.7
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 15.1
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 16.13
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 16.52
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 16.84
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 17.13
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 18.71
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 19.19
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 20.49
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 21.18
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 21.9
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 22.65
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 23.56
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 25.3
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 26
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 26.66
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 27.34
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 28.66
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 29.39
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 30.62
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 32.03
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 33.42
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 34.5
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 34.91
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 36.11
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 37.46
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 38.8
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 39.58
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 40.33
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 41.58
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 42.35
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 42.7
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 44.02
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 45.08
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 46.55
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 47.14
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 48.2
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 49.36
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 50.5
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 51.59
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 52.38
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 53.51
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 54.32
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 55.57
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 56.92
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 57.9
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 59.11
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 60.1
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 60.67
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 61.4
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 62.11
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 62.81
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 63.48
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 64.12
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 64.8
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 65.48
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 67.56
+      addTime: 0
+    - line: 2
+      type: 5
+      hitTime: 68.23
+      addTime: 0
+    - line: 1
+      type: 4
+      hitTime: 69.55
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 70.23
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 70.97
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 72.35
+      addTime: 0
+    - line: 0
+      type: 3
+      hitTime: 73.06
+      addTime: 0
+    - line: 2
+      type: 4
+      hitTime: 74.35
+      addTime: 0
+    - line: 2
+      type: 3
+      hitTime: 75.71
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 77.1
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 78.33
+      addTime: 0
+    - line: 0
+      type: 4
+      hitTime: 79.72
+      addTime: 0
+    - line: 0
+      type: 5
+      hitTime: 81.04
+      addTime: 0
+    - line: 1
+      type: 3
+      hitTime: 82.43
+      addTime: 0
+    - line: 1
+      type: 5
+      hitTime: 83
+      addTime: 0

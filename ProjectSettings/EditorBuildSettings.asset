@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ManagerScene.unity
+    guid: 5d523bd4f33dfcf47b593d8cc0e9bb4c
+  - enabled: 1
+    path: Assets/Scenes/AnimationScene.unity
+    guid: da18006e289c2484799a8f1d56c74e46
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 0.unity
+    guid: 9111c4fa60a41174cb277203eb816181
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 1.unity
+    guid: 66eb7578f59d99242abb539c89d475d4
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 2.unity
+    guid: 2430cc7e510eb7440afb3c9ca00a704e
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 3.unity
+    guid: dc6aa0ffc02143c49a990badb677ab01
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 4.unity
+    guid: 4b9c1f983e0532d46bb5aecc14ede321
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 5.unity
+    guid: cee07e37e7460dd43b98457cae4f63dd
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 6.unity
+    guid: 124bda484c5f371469b9b9576bc5b057
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 7.unity
+    guid: e89078e5ff3f97b40aefd5d2b4d0f713
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 8.unity
+    guid: 695cde698b70ced439e7bbacc1d1e8c5
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 9.unity
+    guid: f62e5a59f5ef09746ae7ef078df2d1b4
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 10.unity
+    guid: 714484c5d598f214e82d867aaa71c90c
+  - enabled: 1
+    path: Assets/Scenes/DialogueScene 11.unity
+    guid: e7cb68b62e8323348a19f7580655d053
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c017e36569bb8fb4ca92786f28c2db15
+  - enabled: 1
+    path: Assets/Scenes/OLD_DialogueScene 2.unity
+    guid: bf907edd2012e20499ee42547e54fe59
+  - enabled: 1
+    path: Assets/Scenes/old_DialogueScene 9 old.unity
+    guid: 7e3069474af29f3438ff0736bc0281ec
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 0.unity
+    guid: 6f0bb1b78d6c9a04ca182d18bf21b601
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 1.unity
+    guid: 3a32dd8f8b9cfdc4b814a7e7d31a7831
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 2.unity
+    guid: da9f836918cb0a443a6d440bfb76b357
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 3.unity
+    guid: 430e079b9617be1428dcb685fa0bf582
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 4.unity
+    guid: 1f74cc9329c41214483ca6389cd10ecd
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 5.unity
+    guid: 11131736056e1534b997dad592ac8a43
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 6.unity
+    guid: febe401ddc274964fa4eb8b4bf7c1682
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 7.unity
+    guid: ca7acaf2fd96c9b43ab2705b382c08fe
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 8.unity
+    guid: d02c88ee92e9c1940af6d07ebe7dbea2
+  - enabled: 1
+    path: Assets/Scenes/SpriteScene 9.unity
+    guid: a1f2c26407b646d468a01275f0455dac
+  - enabled: 1
+    path: Assets/Scenes/StagePlayScene.unity
+    guid: 3ebb58fffdcd3a84a96a84ecb7fbd447
+  - enabled: 1
+    path: Assets/Scenes/StageSelectScene.unity
+    guid: 84702dc73b07ca94f853fc67990597e1
+  m_configObjects: {}

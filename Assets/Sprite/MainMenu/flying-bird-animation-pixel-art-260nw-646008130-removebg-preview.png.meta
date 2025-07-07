@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 601f6fd915ec3f64dbaf2b82deb63c27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 175}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 71
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315a34ef295d6d4ea65fa02d19262ed
+      internalID: -1085506845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 214
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c3bc74d262a004aa8677af56ca59f3
+      internalID: 921573042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 212
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8455a1081f9bd44900da244541b5fb
+      internalID: 818347592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 201
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453125cdd79b5b4ea96bc841f8a2e3e
+      internalID: 1547655787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 212
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe43c11b0e40e544a609af83a2d4a75
+      internalID: -332170421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 212
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce071ec51d6d9d42a59e2380d30807f
+      internalID: 1467781784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ae416f4ad471540938a5e504129a8e
+      internalID: -1079659323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 128
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9735c62aaed94a9a5c08e6e821165
+      internalID: -405344827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 125
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9ee3950654574fbe1d676d4b90674
+      internalID: -1494223240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 114
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064635943c9b1c84683087d2a3fc5163
+      internalID: -392121225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 125
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a6234172abc804fa560dd6cfdafa44
+      internalID: -19492011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 125
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab04903935611f41855480f3cff5db2
+      internalID: -1652067975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1a97949098a7e48beeeb16f831f30f
+      internalID: -282738079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 41
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459574d23f2f734581dacb7fb5931c4
+      internalID: 723507413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 38
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41327dfde1ba7864fb93c561cc6b6034
+      internalID: -1159085755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 27
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36192d8818455c34b97ec1c0951bb67b
+      internalID: 1050455816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 38
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386c8e4b6bd130428b6a31caa7a5893
+      internalID: -1408424946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 38
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30459fea60b26d14e97b0ca711da6ec7
+      internalID: -1494862074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_0: -1085506845
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_1: 921573042
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_10: -19492011
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_11: -1652067975
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_12: -282738079
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_13: 723507413
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_14: -1159085755
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_15: 1050455816
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_16: -1408424946
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_17: -1494862074
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_2: 818347592
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_3: 1547655787
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_4: -332170421
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_5: 1467781784
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_6: -1079659323
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_7: -405344827
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_8: -1494223240
+      flying-bird-animation-pixel-art-260nw-646008130-removebg-preview_9: -392121225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
